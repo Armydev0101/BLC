@@ -1,0 +1,395 @@
+@media (max-width:1400px) {
+    #header-06 .navbar .navbar-nav .nav-item .nav-link {
+        padding: 22px 0px;
+    }
+
+    #header-06 .intro-text h1 {
+        line-height: 47px;
+    }
+
+    #header-06 .intro-text .btn_video_wrapper {
+        margin-top: 40px;
+    }
+
+    #header-06 .countdown_time {
+        margin-top: 50px;
+    }
+
+    #header-06 .intro-text {
+        margin: 120px 0 170px;
+    }
+
+    #welcome_cryptonic_06 {
+        padding: 0 0 60px;
+    }
+
+    #token_distribution_06 {
+        padding-top: 0px;
+        padding-bottom: 100px;
+    }
+
+        #token_distribution_06 .sub-title {
+            margin: 0px auto 30px;
+        }
+
+    #roadmap_06 .location_04 .location_wrapper .location .location_title p {
+        font-size: 14px;
+        font-weight: 500;
+        margin: 0;
+        color: rgb(126, 133, 236);
+        padding: 0px 10px;
+    }
+
+    
+    #roadmap_06 {
+        padding: 10px 0 50px;
+    }
+
+    #companis_supported_06 .bubble1 {
+        left: 3%;
+    }
+
+    #companis_supported_06 .bubble2 {
+        right: 11%;
+    }
+
+    #companis_supported_06 {
+        padding: 0 0 30px;
+    }
+}
+@media (max-width:1400px) and (min-width:900px) {
+    #roadmap_06 .location_04 .location_wrapper .location_2 {
+        left: 23%;
+    }
+
+    #roadmap_06 .location_04 .location_wrapper .location_3 {
+        left: 48%;
+    }
+
+    #roadmap_06 .container .location_04 .location_wrapper .location_4, #roadmap_01 .location_04 .location_wrapper .location_4 {
+        right: 2%;
+    }
+
+    #roadmap_06 .location_04 .location_wrapper .roadmap_position_2 {
+        height: 287px;
+    }
+
+}
+@media (max-width:900px) {
+    #header-06, #welcome_cryptonic_06, #about_cryptonic_06, best_feature_06, #token_sale_06, #token_distribution_06, #roadmap_06, #companis_supported_06, #team_membar_06, #ecosystem, #exchanges, #faq-area-06, #contact_06, #subscribe_area_06, footer {
+        overflow: hidden !important;
+    }
+
+    #header-06 .intro-text {
+        text-align: center;
+        margin: 80px 0 0px;
+    }
+    #header-06 .countdown_time {
+    margin-right: 0px;
+    }
+    .is-sticky #navbarSupportedContent {
+        opacity:0;
+    }
+    .is-sticky nav.navbar {
+        background: transparent;
+        box-shadow:none;
+    }
+    #about_cryptonic_06 .about-img img {
+        width: 100%;
+        max-width:610px;
+    }
+    .stanup {
+        left: 22px;
+        top: 30px;
+    }
+    #token_distribution_06.container {
+        min-height: 730px;
+    }
+    #token_distribution_06 .distribution_single .distribution_wrapper .details_content .details_2 p {
+        left: 60px;
+        position: relative;
+        max-width: 200px;
+    }
+    #about_cryptonic_06 {
+        padding: 40px 0 60px;
+    }
+    #token_sale_06 {
+        padding: 40px 0 60px;
+    }
+    #token_sale_06 .shape1 {
+        top: 30%;
+    }
+    #token_sale_06 .pricing_items .single-wrapper .pricing_single {
+        background: linear-gradient(to bottom,rgba(0, 35, 210, 0.1),rgba(9, 2, 51, 0.8));
+    }
+    #token_sale_06 .pricing_bottom .pricing_list_wrapper {
+        padding: 40px;
+        padding-bottom: 60px;
+    }
+    #token_distribution_06 .distribution_single_item {
+        margin-bottom: 0px;
+    }
+    #roadmap_06 .location_04 .location_wrapper .location_2 {
+        left: -10px;
+        bottom: -19%;
+        width: 50%;
+    }
+    #roadmap_06 .location_04 .location_wrapper .location_3 {
+        right: 0%;
+        width: 50%;
+        bottom: 11%;
+        left: inherit;
+        top: inherit;
+        float: right;
+    }
+    #roadmap_06 .location_04 .location_wrapper .location_4 {
+        right: 0%;
+        width: 50%;
+        bottom: 53%;
+        float: left;
+    }
+    #companis_supported_06 .bubble1 img {
+        display:none;
+    }
+    #companis_supported_06 .bubble2 img {
+        display: none;
+    }
+    #ecosystem h2 {
+        margin-top:0px;
+    }
+    #ecosystem .eco-title {
+        margin-top:20px;
+    }
+    .img-responsive {
+        width:100%;
+        margin:0px auto;
+        display:block;
+    }
+    .none-tablet {
+        display:none;
+    }
+    #exchanges .exchanges-title {
+        position: relative;
+        top: 0px;
+        right: inherit;
+        color: #ffffff;
+        font-size: 42px;
+        font-style: italic;
+        margin: 0px auto;
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+        padding: 5px 0px;
+        background: linear-gradient(to right,rgba(14, 4, 77, 0),rgba(12, 23, 136, 0.3),rgba(14, 4, 77, 0));
+    }
+    #subscribe_area_06 .subscribe-wrapper #subscribe .subscribe-form form .form-group input {
+        width:85%;
+    }
+    #subscribe_area_06 .subscribe-wrapper #subscribe .subscribe-form form .form-group button {
+        right: 95px;
+    }
+    #footer-06 {
+        margin-top:20px;
+        padding-top:0px;
+    }
+    #footer-06 .copyright p {
+        padding:30px 0px;
+    }
+}
+@media (max-width:500px) {
+    .header .navbar {
+        padding: 0px 0 0px !important;
+        z-index: 99;
+        background: #020c59 !important;
+    }
+    .is-sticky #navbarSupportedContent {
+        opacity: 1;
+    }
+    .navbar-light .navbar-toggler {
+        z-index: 999;
+    }
+    .header .navbar {
+        padding: 0px 0 0px !important;
+        z-index: 99;
+        background: #020c59 !important;
+    }
+    .language {
+        position: absolute;
+        top: 10px;
+        left: 45%;
+        transform: translateX(-50%);
+        width: 100%;
+        justify-content: flex-end;
+    }
+    .navbar-light .navbar-brand img {
+        visibility: hidden;
+        width: 200px;
+        left: -43%;
+        padding: 10px 0px;
+        position: relative;
+    }
+    .navbar-light .navbar-brand::before {
+        background: url(../images/logos/logo2.svg);
+        position: absolute;
+        top: 17px;
+        left: -25px;
+        content: "";
+        height: 30px;
+        width: 134px;
+        background-size: cover;
+    }
+    #header-06 .countdown_time .clock-countdown .single-counter {
+        padding: 8px;
+    }
+    #welcome_cryptonic_06 {
+        padding: 100px 0 60px;
+    }
+    .stanup {
+        left: 0px;
+        top: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    #token_distribution_06 .distribution_single .distribution_wrapper .details_content .details_2 p {
+        left: 0px;
+        position: relative;
+        max-width: inherit;
+    }
+    #token_distribution_06 .distribution_single .distribution_wrapper .details_content .details p {
+        margin-top:0px;
+        margin-left:0px;
+    }
+    #best_feature_06 {
+        padding: 0px 0 25px;
+    }
+    #token_sale_06 .pricing_bottom {
+        margin-top: -5px;
+    }
+    #token_distribution_06 .about_cryptonic-content h2 {
+        font-size: 20px;
+    }
+    #roadmap_06 .location_04 .location_wrapper .location_2 {
+        width: 95%;
+        float: inherit;
+    }
+    #roadmap_06 .location_04 .location_wrapper .location_3 {
+        width: 95%;
+        float: inherit;
+    }
+    #roadmap_06 .location_04 .location_wrapper .location_4 {
+        width: 95%;
+        float:inherit;
+    }
+    .btn-wpp {
+        position: relative;
+        display: block;
+        text-align: center;
+    }
+    .img-wpp-left {
+        max-width: 220px;
+        width: 100%;
+        margin: 0px auto;
+        text-align: center;
+        display: block;
+        position: relative;
+        top: 0px;
+        margin-top: 30px;
+        border-radius: 10px;
+        border: 2px solid #1e248c;
+        box-shadow: 5px -5px 20px 2px rgba(0, 33, 154, 0.6);
+    }
+    .block-wpp .token_shape .header-shape {
+        width: 100%;
+        top: 50%;
+    }
+    #faq-area-06 {
+        padding: 40px 0 40px;
+    }
+    #contact_06 .contact_form {
+        background: transparent;
+        margin-top: 0px;
+    }
+    #contact_06 .address_wrapper .sub-title {
+        text-align: left;
+        margin: 0px 0 30px;
+    }
+    #contact_06 .address_wrapper .contact-info-wrapper .contact-info .single-list {
+        margin-bottom: 30px;
+    }
+    #subscribe_area_06 .subscribe-wrapper #subscribe .subscribe-form form .form-group input {
+        width: 100%;
+        padding:0px 10px;
+    }
+    #subscribe_area_06 .subscribe-wrapper #subscribe .subscribe-form form {
+        width: 100%;
+    }
+    #subscribe_area_06 .subscribe-wrapper #subscribe .subscribe-form form .form-group input {
+        height:55px;
+    }
+    #subscribe_area_06 .subscribe-wrapper #subscribe .subscribe-form form .form-group button {
+        right:0px;
+        height: 55px;
+    }
+}
+@media (max-width:390px) {
+    .navbar-light .navbar-brand::before {
+        left: -10px;
+    }
+    #header-06 .navbar .language .token {
+        line-height: 35px !important;
+        margin-top: 6px;
+    }
+    #about_cryptonic_06 .about_cryptonic-content a {
+        margin-top:15px;
+    }
+    #roadmap_06 .sub-title {
+        margin: 0px 0 70px 0;
+    }
+    #roadmap_06 .location_04 .location_wrapper .location {
+        margin-bottom:10px;
+    }
+}
+@media (max-width:370px) {
+    #header-06 .navbar .language .token {
+        position: relative;
+        left: 10px;
+    }
+    #header-06 .countdown_time .clock-countdown .single-counter {
+        padding: 5px;
+    }
+    #footer-06 .copyright p {
+        padding: 20px 0px;
+    }
+    #header-06 .intro-text {
+        margin: 60px 0 0px;
+    }
+}
+@media (max-width:330px) {
+    .navbar-light .navbar-brand::before {
+        background: url(../images/logos/logo2.svg);
+        position: absolute;
+        top: 21px;
+        left: -25px;
+        content: "";
+        height: 23px;
+        width: 105px;
+        background-size: cover;
+    }
+    #header-06 .intro-text {
+        margin: 45px 0 0px;
+    }
+    #header-06 .countdown_time .clock-countdown .single-counter {
+        padding: 5px 2px;
+    }
+    #header-06 .countdown_time .clock-countdown .single-counter h4 {
+        width: 65px;
+        height: 65px;
+    }
+    #header-06 .countdown_time .clock-countdown .single-counter h4 .count-time {
+        width: 65px;
+        height: 65px;
+    }
+    #header-06 .countdown_time .clock-countdown .single-counter .normal {
+        font-size:14px;
+    }
+}
