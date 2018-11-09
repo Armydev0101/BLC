@@ -178,7 +178,7 @@
 #header-06 .countdown_time .count-time_btn a:before {
     position: absolute;
     content: "";
-    background: linear-gradient(to left, #9982ed 0%, #f879b6 100%);
+    background: linear-gradient(to bottom, #090d57 0%, #0d2884 100%);
     top: 0;
     left: 0%;
     height: 100%;
